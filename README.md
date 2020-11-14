@@ -1,2 +1,3 @@
 # basic_octave_code
-codes to solve different vectors 
+code to plot and understand vectors 
+same code can run in Matlab as well
